@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Cari user...</string>
+    <string name="settings">Settings</string>
+
+    <string name="creator">Arby Azra</string>
+    <string name="description">Deskripsi</string>
+    <string name="username">Score : %1$s</string>
+    <string name="following">%1$s Followings</string>
+    <string name="followings">Followings</string>
+    <string name="repository">%1$s Repos</string>
+    <string name="followers">Followers</string>
+    <string name="follower">%1$s Followers</string>
+    <string name="detail_place">Tegal</string>
+    <string name="detail_working">Dicoding</string>
+    <string name="detail_name">Arby Azyumardi Azra</string>
+    <string name="representing_icon_of_place">Representing Icon of Place</string>
+    <string name="detail_followers">20 Followers</string>
+    <string name="detail_following">20 Following</string>
+    <string name="representing_icon_of_working">Representing Icon of Working</string>
+    <string name="detailUsername">arbyazra123</string>
+    <string name="total_repository">Total Repository</string>
+    <string name="_0">0</string>
+    <string name="representing_a_user_picture_profile">Representing a User Picture Profile</string>
+    <string name="item_name">arbyazra</string>
+    <string name="item_name_sample">Score : 1.0</string>
+    <string name="representing_an_bg_image_of_appbar">Representing an BG image of AppBar</string>
+    <string name="by_me">by Arby Azra</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_user">Cari user</string>
+    <string name="search_null">Kolom pencarian tidak boleh kosong</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="user_not_found">User tidak ditemukan</string>
+    <string name="followers_not_found">Followers tidak ada</string>
+    <string name="followings_not_found">Followings tidak ada</string>
+</resources>
